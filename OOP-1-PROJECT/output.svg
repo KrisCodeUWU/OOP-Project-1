@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='500' height='500'>
+  <circle cx='50' cy='60' r='30' fill='red' />
+  <line x1='60' y1='60' x2='160' y2='60' stroke='blue' />
+  <rect x='60' y='60' width='20' height='50' fill='purple' />
+  <line x1='30' y1='30' x2='31' y2='70' stroke='blue' />
+  <circle cx='100' cy='70' r='4' fill='purple' />
+  <rect x='90' y='90' width='20' height='20' fill='green' />
+</svg>
